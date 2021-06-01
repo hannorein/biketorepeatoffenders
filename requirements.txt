@@ -7,4 +7,4 @@ python-twitter==3.3
 requests==2.18.2
 requests-oauthlib==0.8.0
 twitter-photos==0.3.1
-urllib3==1.22
+urllib3==1.26.5
